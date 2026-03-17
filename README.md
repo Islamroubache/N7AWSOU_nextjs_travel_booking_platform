@@ -85,8 +85,8 @@
 
 **1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/Islamroubache/musafir-box-platform.git
-cd musafir-box-platform-main
+git clone https://github.com/Islamroubache/N7AWSOU_nextjs_travel_booking_platform.git
+cd N7AWSOU_nextjs_travel_booking_platform-main
 ```
 
 **2️⃣ Install dependencies**
@@ -153,22 +153,6 @@ graph TD
 **Contributions are welcome!** Please feel free to submit a Pull Request.
 
 </div>
-
-### 📝 Contribution Workflow
-
-```bash
-# 1. Fork the repository
-# 2. Create your feature branch
-git checkout -b feature/AmazingFeature
-
-# 3. Commit your changes
-git commit -m 'Add some AmazingFeature'
-
-# 4. Push to the branch
-git push origin feature/AmazingFeature
-
-# 5. Open a Pull Request
-```
 
 ---
 
